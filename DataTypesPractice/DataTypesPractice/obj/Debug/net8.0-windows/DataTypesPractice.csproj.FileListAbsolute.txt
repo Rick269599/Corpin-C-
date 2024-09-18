@@ -1,0 +1,17 @@
+C:\Users\Rick\source\repos\DataTypesPractice\DataTypesPractice\bin\Debug\net8.0-windows\DataTypesPractice.exe
+C:\Users\Rick\source\repos\DataTypesPractice\DataTypesPractice\bin\Debug\net8.0-windows\DataTypesPractice.deps.json
+C:\Users\Rick\source\repos\DataTypesPractice\DataTypesPractice\bin\Debug\net8.0-windows\DataTypesPractice.runtimeconfig.json
+C:\Users\Rick\source\repos\DataTypesPractice\DataTypesPractice\bin\Debug\net8.0-windows\DataTypesPractice.dll
+C:\Users\Rick\source\repos\DataTypesPractice\DataTypesPractice\bin\Debug\net8.0-windows\DataTypesPractice.pdb
+C:\Users\Rick\source\repos\DataTypesPractice\DataTypesPractice\obj\Debug\net8.0-windows\DataTypesPractice.Form1.resources
+C:\Users\Rick\source\repos\DataTypesPractice\DataTypesPractice\obj\Debug\net8.0-windows\DataTypesPractice.Properties.Resources.resources
+C:\Users\Rick\source\repos\DataTypesPractice\DataTypesPractice\obj\Debug\net8.0-windows\DataTypesPractice.csproj.GenerateResource.cache
+C:\Users\Rick\source\repos\DataTypesPractice\DataTypesPractice\obj\Debug\net8.0-windows\DataTypesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rick\source\repos\DataTypesPractice\DataTypesPractice\obj\Debug\net8.0-windows\DataTypesPractice.AssemblyInfoInputs.cache
+C:\Users\Rick\source\repos\DataTypesPractice\DataTypesPractice\obj\Debug\net8.0-windows\DataTypesPractice.AssemblyInfo.cs
+C:\Users\Rick\source\repos\DataTypesPractice\DataTypesPractice\obj\Debug\net8.0-windows\DataTypesPractice.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\DataTypesPractice\DataTypesPractice\obj\Debug\net8.0-windows\DataTypesPractice.dll
+C:\Users\Rick\source\repos\DataTypesPractice\DataTypesPractice\obj\Debug\net8.0-windows\refint\DataTypesPractice.dll
+C:\Users\Rick\source\repos\DataTypesPractice\DataTypesPractice\obj\Debug\net8.0-windows\DataTypesPractice.pdb
+C:\Users\Rick\source\repos\DataTypesPractice\DataTypesPractice\obj\Debug\net8.0-windows\DataTypesPractice.genruntimeconfig.cache
+C:\Users\Rick\source\repos\DataTypesPractice\DataTypesPractice\obj\Debug\net8.0-windows\ref\DataTypesPractice.dll
